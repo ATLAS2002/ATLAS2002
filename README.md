@@ -28,27 +28,9 @@
 <br clear="both">
 <div align="center">
 
-| [<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github logo" title="ATLAS2002" width="100" height="50">](https://www.github.com/ATLAS2002) | [<img src="leetcode-logo.svg" alt="leetcode logo" title="ATLAS2002" width="100" height="50">](https://www.leetcode.com/ATLAS2002) | [<img src="codechef-logo.svg" alt="leetcode logo" title="siddharthb2002" width="100" height="50">](https://www.codechef.com/users/siddharthb2002) | <img width="20" /> [<img src="codeforces-logo.svg" alt="leetcode logo" title="sid2002" width="50" height="50">](https://www.codeforces.com/profile/sid2002) <img width="20" /> | [<img src="hackerrank-logo.svg" alt="leetcode logo" title="ATLAS2002" width="100" height="50">](https://www.hackerrank.com/siddharth211102) |
+| [<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github logo" title="ATLAS2002" width="100" height="50">](https://www.github.com/ATLAS2002) | [<img src="leetcode-logo.svg" alt="leetcode logo" title="ATLAS2002" width="100" height="50">](https://www.leetcode.com/ATLAS2002) | [<img src="codechef-logo.svg" alt="leetcode logo" title="siddharthb2002" width="100" height="50">](https://www.codechef.com/users/siddharthb2002) | <img width="20" /> [<img src="codeforces-logo.svg" alt="leetcode logo" title="sid2002" width="50" height="50">](https://codeforces.com/profile/sid2002) <img width="20" /> | [<img src="hackerrank-logo.svg" alt="leetcode logo" title="ATLAS2002" width="100" height="50">](https://www.hackerrank.com/siddharth211102) |
 |---|---|---|---|---|
 </div>
-
-<!-- <div align="center">
-<a href = 'https://www.linkedin.com/in/siddharth-biswas-8380b422a'> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="110" height="50" alt="linkedin logo" title="Siddharth Biswas" />
-</a>
-<a href = 'https://www.facebook.com/siddharth.biswas.796'> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="110" height="50" alt="facebook logo" title="Siddharth Biswas" />
-</a>
-<a href = 'https://www.instagram.com/siddhartho_milos'> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="110" height="50" alt="instagram logo" title="siddhartho_milos" />
-</a>
-<a href = 'https://www.discordapp.com/users/670861379456073731'> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="110" height="50" alt="discord logo" title="atlas_2002" />
-</a>
-<a href = 'https://www.github.com/ATLAS2002'> 
-  <img width = "110" height="50" alt="github logo" title="ATLAS2002" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a>
-</div> -->
 
 <hr/>
 
