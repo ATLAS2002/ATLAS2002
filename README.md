@@ -8,17 +8,26 @@
 - I am _20 years_ old :boy:, and my current residence is in :round_pushpin: _Bally, West Bengal, India_. 🇮🇳
 - Currently I am pursuing **B.Tech** in **Information Technology**. :computer:
 - I am a pre-final year student at [Jalpaiguri Government Engineering College](https://en.wikipedia.org/wiki/Jalpaiguri_Government_Engineering_College). :school:
-- I have keen interest in DSA, Competitive Programming, and Web Development. :atom_symbol: 
+- I have keen interest in DSA, Competitive Programming, and Web Development. :globe_with_meridians:
 - I am also learning about :chains: Blockchain and :art: UI/UX designing.
 - And I am looking for an internship. :man_technologist:
 
 <hr/>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+- <h3> Social Media Platforms : </h3>
 <div align="center">
 
-| [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" title="Siddharth Biswas" width="110" height="50">](https://www.linkedin.com/in/siddharth-biswas-8380b422a)  | [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="facebook logo" title="Siddharth Biswas" width="110" height="50">](https://www.facebook.com/siddharth.biswas.796) |  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" title="siddhartho_milos" width="110" height="50">](https://www.instagram.com/siddhartho_milos) |  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo" title="atlas_2002" width="110" height="50">](https://www.discordapp.com/users/670861379456073731) |  [<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github logo" title="ATLAS2002" width="110" height="50">](https://www.github.com/ATLAS2002) |
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" title="Siddharth Biswas" width="110" height="50">](https://www.linkedin.com/in/siddharth-biswas-8380b422a)  | [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="facebook logo" title="Siddharth Biswas" width="110" height="50">](https://www.facebook.com/siddharth.biswas.796) |  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" title="siddhartho_milos" width="110" height="50">](https://www.instagram.com/siddhartho_milos) |  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo" title="atlas_2002" width="110" height="50">](https://www.discordapp.com/users/670861379456073731) |
+|---|---|---|---|
+</div>
+
+- <h3>Coding Platforms :</h3>
+<div align="center">
+
+| [<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github logo" title="ATLAS2002" width="110" height="50">](https://www.github.com/ATLAS2002) | [<img src="https://github.com/ATLAS2002/ATLAS2002/assets/123821746/238f4a66-26d3-43d1-acf4-0854dc8b279c" alt="leetcode logo" title="ATLAS2002" width="110" height="50">](https://leetcode.com/ATLAS2002) |
+|---|---|
 </div>
 
 <!-- <div align="center">
