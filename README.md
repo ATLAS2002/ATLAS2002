@@ -26,8 +26,8 @@
 - <h3>Coding Platforms :</h3>
 <div align="center">
 
-| [<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github logo" title="ATLAS2002" width="110" height="50">](https://www.github.com/ATLAS2002) | [<img src="https://github.com/ATLAS2002/ATLAS2002/assets/123821746/238f4a66-26d3-43d1-acf4-0854dc8b279c" alt="leetcode logo" title="ATLAS2002" width="110" height="50">](https://leetcode.com/ATLAS2002) |
-|---|---|
+| [<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github logo" title="ATLAS2002" width="110" height="50">](https://www.github.com/ATLAS2002) | [<img src="leetcode-logo.svg" alt="leetcode logo" title="ATLAS2002" width="110" height="50">](https://leetcode.com/ATLAS2002) | [<img src="leetcode-logo.svg" alt="leetcode logo" title="ATLAS2002" width="110" height="50">](https://leetcode.com/ATLAS2002) | [<img src="leetcode-logo.svg" alt="leetcode logo" title="ATLAS2002" width="110" height="50">](https://leetcode.com/ATLAS2002) | [<img src="leetcode-logo.svg" alt="leetcode logo" title="ATLAS2002" width="110" height="50">](https://leetcode.com/ATLAS2002) |
+|---|---|---|---|---|
 </div>
 
 <!-- <div align="center">
